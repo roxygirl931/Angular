@@ -1,0 +1,46 @@
+[
+{ 
+	"title":"CNN", 
+	"url":"http:www.cnn.com"
+}, 
+{ 
+	"title":"NBC News", 
+	"url":"http:www.nbcnews.com"
+}, 
+{ 
+	"title":"Google News", 
+	"url":"http:www.news.google.com"
+},
+{ 
+	"title":"Yahoo News", 
+	"url":"http:www.news.yahoo.com"
+},
+{ 
+	"title":"CNET", 
+	"url":"http://www.cnet.com/news"
+},
+{ 
+	"title":"NY Daily News", 
+	"url":"http://www.nydailynews.com/"
+},
+{ 
+	"title":"Fox News", 
+	"url":"http://www.foxnews.com"
+},
+{ 
+	"title":"ABC News", 
+	"url":"http://www.abcnews.go.com"
+},
+{ 
+	"title":"MSNBC", 
+	"url":"http://www.msnbc.com"
+},
+{ 
+	"title":"CBS", 
+	"url":"http://www.cbsnews.com"
+},
+{ 
+	"title":"GlobalPost", 
+	"url":"http://www.globalpost.com/breaking-news"
+}
+]

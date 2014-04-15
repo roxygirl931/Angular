@@ -1,0 +1,13 @@
+<div class="main">
+	<h1>Login</h1>
+	<div ng-controller="UserCtrl">
+	  <span></span>
+	  <form ng-submit="submit()">
+	    <input ng-model="user.username" type="text" name="user" placeholder="Username" />
+	    <input ng-model="user.password" type="password" name="pass" placeholder="Password" />
+	    <input type="submit" value="Login" />
+	    <div class="well well-lg"><a href="#/dashboard" class="btn btn-primary">Go to Dashboard</a></div>
+	  </form>
+	</div>
+	
+</div>
